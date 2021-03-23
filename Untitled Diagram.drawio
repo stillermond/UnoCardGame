@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T20:05:35.448Z" agent="5.0 (Windows)" etag="EAHJsxVGkehPho6PDf3c" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T20:18:50.142Z" agent="5.0 (Windows)" etag="o7yb2UkbjzCRP15JjmsJ" version="14.5.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4jJO9F7ZcWaMwoymubr_-1" value="UNO Card Game" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="40" width="150" height="80" as="geometry" />
+        <mxCell id="4jJO9F7ZcWaMwoymubr_-1" value="UNO Card Game" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="40" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4jJO9F7ZcWaMwoymubr_-17" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="4jJO9F7ZcWaMwoymubr_-17" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="305" y="190" as="sourcePoint" />
             <mxPoint x="304.5" y="120" as="targetPoint" />
@@ -17,59 +17,171 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4jJO9F7ZcWaMwoymubr_-18" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="4jJO9F7ZcWaMwoymubr_-18" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="190" as="sourcePoint" />
-            <mxPoint x="1110" y="190" as="targetPoint" />
+            <mxPoint x="1100" y="190" as="targetPoint" />
             <Array as="points">
               <mxPoint x="310" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4jJO9F7ZcWaMwoymubr_-19" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="4jJO9F7ZcWaMwoymubr_-26">
+        <mxCell id="4jJO9F7ZcWaMwoymubr_-19" value="" style="endArrow=classic;html=1;" parent="1" target="4jJO9F7ZcWaMwoymubr_-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="190" as="sourcePoint" />
             <mxPoint x="70" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4jJO9F7ZcWaMwoymubr_-24" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="4jJO9F7ZcWaMwoymubr_-25">
+        <mxCell id="4jJO9F7ZcWaMwoymubr_-24" value="" style="endArrow=classic;html=1;" parent="1" target="4jJO9F7ZcWaMwoymubr_-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="190" as="sourcePoint" />
             <mxPoint x="180" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4jJO9F7ZcWaMwoymubr_-25" value="Shuffle Deck" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4jJO9F7ZcWaMwoymubr_-25" value="Shuffle Deck" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4jJO9F7ZcWaMwoymubr_-26" value="Build Deck" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4jJO9F7ZcWaMwoymubr_-26" value="Build Deck" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4jJO9F7ZcWaMwoymubr_-28" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="4jJO9F7ZcWaMwoymubr_-29">
+        <mxCell id="4jJO9F7ZcWaMwoymubr_-28" value="" style="endArrow=classic;html=1;" parent="1" target="4jJO9F7ZcWaMwoymubr_-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="190" as="sourcePoint" />
             <mxPoint x="380" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4jJO9F7ZcWaMwoymubr_-29" value="Deal X number of cards to a player" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4jJO9F7ZcWaMwoymubr_-29" value="Deal X number of cards to a player" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4jJO9F7ZcWaMwoymubr_-30" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="4jJO9F7ZcWaMwoymubr_-31">
+        <mxCell id="4jJO9F7ZcWaMwoymubr_-30" value="" style="endArrow=classic;html=1;" parent="1" target="4jJO9F7ZcWaMwoymubr_-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="190" as="sourcePoint" />
             <mxPoint x="520" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4jJO9F7ZcWaMwoymubr_-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4jJO9F7ZcWaMwoymubr_-31" value="View hand of cards" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4jJO9F7ZcWaMwoymubr_-32" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="4jJO9F7ZcWaMwoymubr_-33">
+        <mxCell id="4jJO9F7ZcWaMwoymubr_-32" value="" style="endArrow=classic;html=1;" parent="1" target="4jJO9F7ZcWaMwoymubr_-33" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="880" y="190" as="sourcePoint" />
             <mxPoint x="880" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4jJO9F7ZcWaMwoymubr_-33" value="Keep track of players turn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4jJO9F7ZcWaMwoymubr_-33" value="Keep track of players turn" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B1dRf-6bImApRZHCYQhr-1" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="B1dRf-6bImApRZHCYQhr-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="190" as="sourcePoint" />
+            <mxPoint x="1100" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B1dRf-6bImApRZHCYQhr-2" value="Keep track of current color and number" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B1dRf-6bImApRZHCYQhr-3" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="B1dRf-6bImApRZHCYQhr-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="190" as="sourcePoint" />
+            <mxPoint x="700" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B1dRf-6bImApRZHCYQhr-4" value="Play card" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B1dRf-6bImApRZHCYQhr-5" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="370" as="sourcePoint" />
+            <mxPoint x="699.5" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="699.5" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B1dRf-6bImApRZHCYQhr-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B1dRf-6bImApRZHCYQhr-6" target="B1dRf-6bImApRZHCYQhr-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B1dRf-6bImApRZHCYQhr-6" value="Have user choose card to play" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B1dRf-6bImApRZHCYQhr-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B1dRf-6bImApRZHCYQhr-7" target="B1dRf-6bImApRZHCYQhr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B1dRf-6bImApRZHCYQhr-7" value="Validate card played" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B1dRf-6bImApRZHCYQhr-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B1dRf-6bImApRZHCYQhr-9" target="B1dRf-6bImApRZHCYQhr-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="720" />
+              <mxPoint x="700" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B1dRf-6bImApRZHCYQhr-9" value="Apply card effects" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B1dRf-6bImApRZHCYQhr-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B1dRf-6bImApRZHCYQhr-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="1060" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="1020" />
+              <mxPoint x="740" y="1020" />
+              <mxPoint x="740" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B1dRf-6bImApRZHCYQhr-11" value="Check for UNO or win condition" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B1dRf-6bImApRZHCYQhr-14" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="730" as="sourcePoint" />
+            <mxPoint x="1090" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B1dRf-6bImApRZHCYQhr-16" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="730" as="sourcePoint" />
+            <mxPoint x="1090" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1090" y="740" />
+              <mxPoint x="1090" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B1dRf-6bImApRZHCYQhr-17" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="730" as="sourcePoint" />
+            <mxPoint x="800" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B1dRf-6bImApRZHCYQhr-18" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="B1dRf-6bImApRZHCYQhr-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="730" as="sourcePoint" />
+            <mxPoint x="940" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="940" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B1dRf-6bImApRZHCYQhr-19" value="Deal X cards to player" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="760" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B1dRf-6bImApRZHCYQhr-20" value="Skip a turn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B1dRf-6bImApRZHCYQhr-21" value="Reverse order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B1dRf-6bImApRZHCYQhr-23" value="End Game" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
